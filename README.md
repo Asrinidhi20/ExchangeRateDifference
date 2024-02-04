@@ -32,7 +32,7 @@ MongoDB
 
 1 ) Open and register exchangerate-api.com
 
-2 ) Register Exchange Rates Data API and Get API key
+2 ) Register Exchange Rates Data API and Get API key(The API key in the project is only valid until 15 feb 2024)
 
 ## Design Patterns Used
 
